@@ -1,0 +1,12 @@
+mkdir = cria um diretório (nome diretorio/pastadentro do diretorio)
+cd = entrar na pasta
+cd .. = sair da pasta 
+mv = mover (se a segunda pasta não existir ele muda o nome da primeira para segunda)
+rmdir = remove diretórios vazios 
+rm = apaga arquivos
+rm -r (e o nome do diretorio)= apaga o diretorio e tudo que tem dentro dele
+ls= listar 
+sudo su = usuario privilegiado
+pwd = identifica o diretorio atual 
+ls= lista o diretorio 
+ls -lh = lista detalhada 
