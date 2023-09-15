@@ -1,4 +1,7 @@
-mkdir = cria um diretório (nome diretorio/pastadentro do diretorio)
+comandos linux
+
+--help = ajuda
+mkdir = cria um diretório (nome diretorio/pasta dentro do diretorio)
 cd = entrar na pasta
 cd .. = sair da pasta 
 mv = mover (se a segunda pasta não existir ele muda o nome da primeira para segunda)
@@ -8,5 +11,17 @@ rm -r (e o nome do diretorio)= apaga o diretorio e tudo que tem dentro dele
 ls= listar 
 sudo su = usuario privilegiado
 pwd = identifica o diretorio atual 
-ls= lista o diretorio 
+ls = lista o diretorio 
 ls -lh = lista detalhada 
+cat = Exibe o conteúdo completo de um arquivo
+less = Exibe o conteúdo completo de um arquivo, paginando-o e permitindo voltar as
+páginas já visitadas
+more = Exibe o conteúdo completo de um arquivo, paginando-o
+head = Exibe as primeiras dez linhas de um arquivo
+tail = Exibe as últimas dez linhas de um arquivo
+grep = Filtra o conteúdo de um arquivo, exibindo somente as linhas que contém uma
+determinada sequência de caracteres
+nano + nome do arquivo = abre um editor de texto
+ctrl w = localizar palavrasta
+ctrl o = salvar
+ctrl x = sair do nano
