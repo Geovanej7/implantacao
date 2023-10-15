@@ -4,6 +4,7 @@ comandos linux
 mkdir = cria um diretório (nome diretorio/pasta dentro do diretorio)
 cd = entrar na pasta de forma relativa
 cd / nomedapasta = entrar na pasta  de forma absoluta 
+cd / = pasta raiz do sistema
 cd .. = sair da pasta 
 mv = mover (se a segunda pasta não existir ele muda o nome da primeira para segunda)
 rmdir = remove diretórios vazios 
