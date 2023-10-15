@@ -1,0 +1,1 @@
+O arquivo /etc/passwd contém muito mais informações do que apenas os nomes dos usuários: Nele também está contido informações como o identificador único do usuário (UID) e do grupo (GID).
